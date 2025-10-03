@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nada-ramy-511226286/)
 
-📧 Email: [yourmail@gmail.com](mailto:ndyramy4@gmail.com)
+📧 Email: [ndyramy4@gmail.com](mailto:ndyramy4@gmail.com)
 
 ---
 
